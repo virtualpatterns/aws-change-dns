@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /Users/fficnar/Dropbox/Projects/JavaScript/aws-change-dns
+cd /Users/virtualpatterns/Projects/JavaScript/aws-change-dns
 mkdir -p ./process/log
 mkdir -p ./process/pid
 /usr/local/bin/node ./library/aws-change-dns.js --amazon:value $(curl -s ifconfig.me) 2>> ./aws-change-dns.err
