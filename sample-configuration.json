@@ -1,0 +1,15 @@
+{
+    "amazon" : {
+        "accessKey": "XXX",
+        "hostedZoneId": "YYY",
+        "region": "us-east-1",
+        "resourceRecordName": "development.virtualpatterns.com",
+        "retry": 5,
+        "secretKey": "ZZZ",
+        "ssl": true
+    },
+    "process" : {
+        "logPath": "./process/log/aws-change-dns.log",
+        "pidPath": "./process/pid/aws-change-dns.pid"
+    }
+}
