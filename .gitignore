@@ -1,4 +1,5 @@
 .DS_Store
 node_modules
 process
-*.err
+configuration.json
+aws-change-dns.err
