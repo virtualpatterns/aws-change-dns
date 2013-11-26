@@ -1,0 +1,18 @@
+{
+  "name": "aws-change-dns",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-jshint": "~0.1.0",
+    "grunt-shell": "~0.2.2",
+    "version": "~0.1.1"
+  },
+  "dependencies": {
+    "async": "~0.2.8",
+    "aws-sdk": "~1.4.1",
+    "nconf": "~0.6.7",
+    "requirejs": "~2.1.5",
+    "underscore": "~1.5.1",
+    "winston": "~0.7.1"
+  }
+}
