@@ -1,11 +1,11 @@
 {
     "amazon" : {
-        "accessKey": "AKIAJGFWYPLUGYN7ZGVQ",
-        "hostedZoneId": "Z2Z4B9NRL45HGB",
+        "accessKey": "XXX",
+        "hostedZoneId": "YYY",
         "region": "us-east-1",
         "resourceRecordName": "development.virtualpatterns.com",
         "retry": 5,
-        "secretKey": "P6cIUuVfDz+wbV+2GDR9/usc6oQt8hDu/PEn9VCg",
+        "secretKey": "ZZZ",
         "ssl": true
     },
     "process" : {
